@@ -4,7 +4,7 @@
 
 I am a Software Engineering student at [AltSchool Africa](https://www.altschoolafrica.com/), I am fascinated by creative and logical engagements and love to participate in tech-related activities.
 
-**Here's a quick summary about me**:
+**About Me**:
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying BackEnd Engineering(Node.js) at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
